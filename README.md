@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HarmanSingh79
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning DSA in C++ and will do development further
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning DSA in C++
+- 💞️ I’m looking to collaborate with people interested in Data Structures & Algorithms and Linux
 - 📫 How to reach me harmansinghnew1@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: ...
